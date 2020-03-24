@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\takot.000\Documents\Intro to Programming\Keywords 2\Keywords 2\Source.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\takot.000\Documents\Intro to Programming\Keywords 2\Keywords 2\Source.cpp(91,35): warning C4018: '<': signed/unsigned mismatch
+  Keywords 2.vcxproj -> C:\Users\takot.000\Documents\Intro to Programming\Keywords 2\Debug\Keywords 2.exe
